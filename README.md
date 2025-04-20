@@ -40,7 +40,7 @@ Each folder represents a **topic**, and inside it are problems with:
 | #   | Title                            | Topic         | Difficulty | Solution |
 |-----|----------------------------------|---------------|------------|----------|
 | 001 | Two Sum                          | Arrays        | Easy       | [🔗 View](arrays/001-two-sum) |
-| 004 | Median of Two Sorted Arrays      | Arrays        | Hard       | [🔗 View](binary-search/004-median-of-two-sorted-arrays) |
+| 004 | Median of Two Sorted Arrays      | Arrays        | Hard       | [🔗 View](arrays/004-median-of-two-sorted-arrays) |
 
 _✔️ Table updates as I add more problems._
 
