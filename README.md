@@ -7,7 +7,7 @@
 ## 🚀 About This Repository
 
 Welcome to my **daily LeetCode grind repo** – a structured, topic-wise archive of solved problems with clear explanations and clean code.  
-This isn't just practice — it's a **public record of learning, improving, and leveling up for real-world interviews**.  
+This isn't just practice — it's a **public record of learning, improving, and leveling up for real-world interviews**.   
 
 Every solution in here:
 - ✅ Uses Python  
