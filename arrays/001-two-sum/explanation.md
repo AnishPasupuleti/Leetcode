@@ -4,7 +4,7 @@ Given an array of integers `nums` and a target value `target`, return the indice
 
 **Example:**
 Input: nums = [2,7,11,15], target = 9  
-Output: [0,1]
+Output: [0,1] 
 
 ---
 
